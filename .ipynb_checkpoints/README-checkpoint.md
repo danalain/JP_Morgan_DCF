@@ -12,7 +12,7 @@ Last time, I did a [valuation of Roku, Inc](https://github.com/danalain/Market_F
 ---
 ## File
 
-1. [Discounted Cash Flow Model]("Codes/DCF.ipynb")
+1. [Discounted Cash Flow Model](Codes/DCF.ipynb)
 
 ## Note
 
